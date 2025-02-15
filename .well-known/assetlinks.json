@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "cloud.Morphiq.Mobile",
+      "sha256_cert_fingerprints": ["5A:E1:1E:8E:34:5F:3B:8E:F5:7F:AE:22:1F:F8:EC:81:83:7C:89:A1:E8:AD:9E:1A:33:AA:38:44:A4:6D:0E:77"]
+    }
+  }
+]
